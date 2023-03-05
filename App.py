@@ -3,7 +3,6 @@ from st_functions import st_button, load_css
 st.title("Wasif :red[Mehmood]:sunglasses:")
 st.header("Data Science Intern At :red[Innomatics] Research Labs")
 st.subheader(" Feb 2023")
-st_button('linkedin', 'https://www.linkedin.com/in/chanin-nantasenamat/', 'Follow me on LinkedIn', icon_size)
 
 onClick=st.button("Click Me")
 
